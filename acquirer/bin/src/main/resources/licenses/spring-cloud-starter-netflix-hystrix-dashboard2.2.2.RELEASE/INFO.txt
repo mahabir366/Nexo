@@ -1,0 +1,7 @@
+Project homepage: https://projects.spring.io/spring-cloud
+
+
+Sources:https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-netflix-hystrix-dashboard
+
+License:
+Licensed under Apache License 2.0

@@ -1,0 +1,6 @@
+Project homepage: https://mvnrepository.com/artifact/org.springframework/spring-boot-starter-actuator/2.2.2.RELEASE
+
+Sources: https://mvnrepository.com/artifact/org.springframework/spring-boot-starter-actuator
+
+License:
+Licensed under Apache License 2.0

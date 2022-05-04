@@ -1,0 +1,7 @@
+Project homepage: 	https://spring.io
+
+
+Sources:    https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-config-client
+
+License:
+Licensed under Apache License 2.0

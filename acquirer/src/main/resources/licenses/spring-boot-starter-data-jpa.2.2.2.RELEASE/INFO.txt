@@ -1,0 +1,8 @@
+Project homepage: http://projects.spring.io/spring-data-jpa
+
+
+Sources: https://mvnrepository.com/artifact/org.springframework.data/spring-data-jpa/2.2.3.RELEASE
+
+
+License:
+Licensed under Apache License 2.0

@@ -1,0 +1,6 @@
+Project homepage: https://mvnrepository.com/artifact/com.mysema.querydsl/querydsl-jpa
+
+Sources: https://mvnrepository.com/artifact/com.mysema.querydsl/querydsl-jpa/3.4.3
+
+License:
+Licensed under Apache License 2.0

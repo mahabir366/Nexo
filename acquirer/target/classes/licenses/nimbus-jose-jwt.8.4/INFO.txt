@@ -1,0 +1,7 @@
+Project homepage: 	https://bitbucket.org/connect2id/nimbus-jose-jwt
+
+
+Sources:   https://mvnrepository.com/artifact/com.nimbusds/nimbus-jose-jwt 
+
+License:
+Licensed under Apache License 2.0

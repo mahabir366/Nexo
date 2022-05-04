@@ -1,0 +1,7 @@
+Project homepage: https://projectlombok.org
+
+
+Sources: https://mvnrepository.com/artifact/org.projectlombok/lombok
+
+License:
+Licensed under MIT

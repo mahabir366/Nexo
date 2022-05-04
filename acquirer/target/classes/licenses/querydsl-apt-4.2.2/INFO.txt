@@ -1,0 +1,6 @@
+Project homepage: https://mvnrepository.com/artifact/com.mysema.querydsl/querydsl-apt
+
+Sources: https://mvnrepository.com/artifact/com.mysema.querydsl/querydsl-apt/3.4.3
+
+License:
+Licensed under Apache License 2.0

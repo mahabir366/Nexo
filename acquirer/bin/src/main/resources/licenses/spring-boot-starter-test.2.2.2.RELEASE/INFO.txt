@@ -1,0 +1,7 @@
+Project homepage: https://projects.spring.io/spring-boot/#/spring-boot-parent/spring-boot-starters/spring-boot-starter-test
+
+
+Sources: https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-test
+
+License:
+Licensed under Apache License 2.0

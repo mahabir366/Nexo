@@ -1,0 +1,7 @@
+Project homepage: 	https://github.com/springfox/springfox
+
+
+Sources:   https://mvnrepository.com/artifact/io.springfox/springfox-swagger-ui
+
+License:
+Licensed under Apache License 2.0

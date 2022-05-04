@@ -1,0 +1,7 @@
+Project homepage: 	 https://mvnrepository.com/artifact/com.neovisionaries/nv-i18n
+
+
+Sources:   https://mvnrepository.com/artifact/com.neovisionaries/nv-i18n
+
+License:
+Licensed under Apache License 2.0

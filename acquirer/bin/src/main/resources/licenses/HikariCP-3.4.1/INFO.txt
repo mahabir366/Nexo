@@ -1,0 +1,7 @@
+Project homepage : https://github.com/brettwooldridge/HikariCP
+
+
+Sources: https://mvnrepository.com/artifact/com.zaxxer/HikariCP/2.7.6
+
+License:
+Licensed under Apache License 2.0

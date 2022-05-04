@@ -1,0 +1,7 @@
+Project homepage: 		http://www.powermock.org
+
+
+Sources:    https://mvnrepository.com/artifact/org.powermock/powermock-api-mockito2
+
+License:
+Licensed under Apache License 2.0

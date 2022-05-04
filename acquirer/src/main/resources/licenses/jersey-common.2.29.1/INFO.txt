@@ -1,0 +1,7 @@
+Project homepage: 	 https://mvnrepository.com/artifact/org.glassfish.jersey.core/jersey-common
+
+
+Sources:   https://mvnrepository.com/artifact/org.glassfish.jersey.core/jersey-common
+
+License:
+Licensed under Apache License 2.0

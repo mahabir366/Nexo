@@ -1,0 +1,7 @@
+Project homepage : http://jax-rs-spec.java.net
+
+
+Sources: https://mvnrepository.com/artifact/javax.ws.rs/javax.ws.rs-api 
+
+License:
+Licensed under CDDL 1.1

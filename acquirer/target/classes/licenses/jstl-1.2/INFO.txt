@@ -1,0 +1,6 @@
+Project homepage: https://mvnrepository.com/artifact/javax.servlet/jstl/1.2
+
+Sources: https://mvnrepository.com/artifact/javax.servlet/jstl
+
+License:
+Licensed under CDDL

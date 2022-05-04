@@ -1,0 +1,3 @@
+[restartedMain] INFO  com.girmiti.nexo.netty.RequestListner  - Entering:: RequestListner:: connectPort method
+[restartedMain] INFO  com.girmiti.nexo.netty.RequestListner  - Exiting:: RequestListner:: connectPort method
+[Thread-8] INFO  com.girmiti.nexo.netty.RequestListner  - Entering:: RequestListner:: run method

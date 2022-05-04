@@ -1,0 +1,6 @@
+Project homepage: 
+
+Sources:  https://mvnrepository.com/artifact/ch.qos.logback/logback-classic
+
+License:
+Licensed under Logback LICENSE

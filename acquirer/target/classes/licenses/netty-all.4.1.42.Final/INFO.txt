@@ -1,0 +1,7 @@
+Project homepage: 	https://mvnrepository.com/artifact/io.netty/netty-all
+
+
+Sources:   https://mvnrepository.com/artifact/io.netty/netty-all
+
+License:
+Licensed under Apache License 2.0
